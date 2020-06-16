@@ -10,10 +10,9 @@
 8. git add将文件发送到缓冲区
 9. git commit -m进行注释
 10. git push将文件发送至github
-验证没有数字是否换行
-啊啊啊
-123
-abc
-.,?
+第二次尝试换行
+啊啊啊\n
+abc\n
+,.?\n
 
 
